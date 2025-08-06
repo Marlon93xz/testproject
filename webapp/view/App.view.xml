@@ -5,7 +5,7 @@
     <Page id="page" title="{i18n>title}">
     <content>
         <VBox id="vb1" class="sapUiSmallMargin">
-           <Label text="Nombre" />
+           <Label text="Nombre desde CI/CD" />
            <Input id="inputNombre" placeholder="Ingresa tu nombre" />
 
            <Label text="Apellido" />
